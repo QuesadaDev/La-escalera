@@ -1,0 +1,1 @@
+En este ejercicio introducimos el número de escalones que queremos que se generen, puede ser tanto positivo como negativo. :arrow_upper_right: :arrow_upper_right: :arrow_lower_left: :arrow_lower_left:
